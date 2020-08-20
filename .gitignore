@@ -1,2 +1,2 @@
 /src/resources/db.properties
-/out/resources/production/*/db.properties
+/out/resources/production/*/resources/db.properties
