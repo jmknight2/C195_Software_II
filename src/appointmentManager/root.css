@@ -1,0 +1,13 @@
+.gridpane {
+    -fx-padding: 25, 25, 25, 25;
+    -fx-hgap: 20;
+    -fx-vgap: 20;
+}
+
+.loginHeading {
+    -fx-alignment: CENTER;
+    -fx-font-family: Arial;
+    -fx-font-weight: BOLD;
+    -fx-font-size: 26;
+    -fx-padding: 0, 0, 25, 0;
+}
