@@ -1,1 +1,2 @@
-\src\resources\db.properties
+/src/resources/db.properties
+/out/resources/production/*/db.properties
