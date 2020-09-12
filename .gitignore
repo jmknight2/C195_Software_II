@@ -1,2 +1,4 @@
-/src/resources/db.properties
+/src/main/resources/db.properties
 /out/production/C195_Software_II/resources/db.properties
+/target/classes/db.properties
+/target/LoginHistory.txt

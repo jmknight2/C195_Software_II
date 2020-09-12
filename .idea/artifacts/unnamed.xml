@@ -1,9 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="unnamed">
-    <output-path>$PROJECT_DIR$/out/artifacts/unnamed</output-path>
-    <root id="archive" name="unnamed.jar">
-      <element id="module-output" name="C195_Software_II" />
-      <element id="library" level="project" name="mysql:mysql-connector-java:5.1.47" />
-    </root>
-  </artifact>
-</component>
